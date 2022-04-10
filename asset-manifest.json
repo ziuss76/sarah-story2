@@ -1,11 +1,12 @@
 {
   "files": {
-    "main.css": "/sarah-story2/static/css/main.746686b1.css",
-    "main.js": "/sarah-story2/static/js/main.b88f3fc6.js",
+    "main.css": "/sarah-story2/static/css/main.79516592.css",
+    "main.js": "/sarah-story2/static/js/main.8b0d8a43.js",
     "static/js/787.ff074155.chunk.js": "/sarah-story2/static/js/787.ff074155.chunk.js",
     "static/media/Her.mp3": "/sarah-story2/static/media/Her.44df6bb58fba8d3e292e.mp3",
     "static/media/1.png": "/sarah-story2/static/media/1.18e6694d397828e80cc6.png",
     "static/media/bg2.webp": "/sarah-story2/static/media/bg2.9421e320c9bd72691967.webp",
+    "static/media/16.png": "/sarah-story2/static/media/16.9ab8a15a760bc317c8e6.png",
     "static/media/4.png": "/sarah-story2/static/media/4.51ceeb0732cb79086cf4.png",
     "static/media/bg1.webp": "/sarah-story2/static/media/bg1.a9c7e3077b69969d4380.webp",
     "static/media/9.png": "/sarah-story2/static/media/9.14c53d2626629e046cc8.png",
@@ -14,18 +15,23 @@
     "static/media/13.png": "/sarah-story2/static/media/13.e2020b4feea352731e92.png",
     "static/media/10.png": "/sarah-story2/static/media/10.79f44ec12083b221eb82.png",
     "static/media/6.png": "/sarah-story2/static/media/6.b99a820c85471a78bdce.png",
+    "static/media/14.png": "/sarah-story2/static/media/14.ee97fa3c6250df6af8eb.png",
     "static/media/8.png": "/sarah-story2/static/media/8.0d39728df068f2014238.png",
+    "static/media/15.png": "/sarah-story2/static/media/15.b460eab6bbc72dfb4a75.png",
     "static/media/2.png": "/sarah-story2/static/media/2.3481be89fc65cf32b499.png",
+    "static/media/17.png": "/sarah-story2/static/media/17.ecdc41a793ffa60fd6da.png",
+    "static/media/18.png": "/sarah-story2/static/media/18.ace78850fdbc23188527.png",
     "static/media/12.png": "/sarah-story2/static/media/12.6ff9896bd9ba0ab3b7d9.png",
     "static/media/5.png": "/sarah-story2/static/media/5.9ca83831c6cc5cd3bde0.png",
     "static/media/7.png": "/sarah-story2/static/media/7.f02b8405bc63964647df.png",
+    "static/media/19.png": "/sarah-story2/static/media/19.22865b5f34fbf4ff4746.png",
     "index.html": "/sarah-story2/index.html",
-    "main.746686b1.css.map": "/sarah-story2/static/css/main.746686b1.css.map",
-    "main.b88f3fc6.js.map": "/sarah-story2/static/js/main.b88f3fc6.js.map",
+    "main.79516592.css.map": "/sarah-story2/static/css/main.79516592.css.map",
+    "main.8b0d8a43.js.map": "/sarah-story2/static/js/main.8b0d8a43.js.map",
     "787.ff074155.chunk.js.map": "/sarah-story2/static/js/787.ff074155.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.746686b1.css",
-    "static/js/main.b88f3fc6.js"
+    "static/css/main.79516592.css",
+    "static/js/main.8b0d8a43.js"
   ]
 }
