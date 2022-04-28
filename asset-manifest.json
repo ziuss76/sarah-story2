@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/sarah-story2/static/css/main.79516592.css",
-    "main.js": "/sarah-story2/static/js/main.a4d2ebb8.js",
+    "main.js": "/sarah-story2/static/js/main.3d85298e.js",
     "static/js/787.ff074155.chunk.js": "/sarah-story2/static/js/787.ff074155.chunk.js",
     "static/media/Her.mp3": "/sarah-story2/static/media/Her.44df6bb58fba8d3e292e.mp3",
     "static/media/1.png": "/sarah-story2/static/media/1.18e6694d397828e80cc6.png",
@@ -27,11 +27,11 @@
     "static/media/19.png": "/sarah-story2/static/media/19.22865b5f34fbf4ff4746.png",
     "index.html": "/sarah-story2/index.html",
     "main.79516592.css.map": "/sarah-story2/static/css/main.79516592.css.map",
-    "main.a4d2ebb8.js.map": "/sarah-story2/static/js/main.a4d2ebb8.js.map",
+    "main.3d85298e.js.map": "/sarah-story2/static/js/main.3d85298e.js.map",
     "787.ff074155.chunk.js.map": "/sarah-story2/static/js/787.ff074155.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.79516592.css",
-    "static/js/main.a4d2ebb8.js"
+    "static/js/main.3d85298e.js"
   ]
 }
